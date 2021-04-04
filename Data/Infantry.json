@@ -1,0 +1,227 @@
+{
+	"ASSAULT" :
+	{
+		"W1" :
+		[
+			"AG M42",
+			"Breda M1935 PG",
+			"Gewehr 1-5",
+			"Gewehr 43",
+			"Karabin 1938M",
+			"M1 Garand",
+			"M1A1 Carbine",
+			"M2 Carbine",
+			"M1907 SF",
+			"M1941 Johnson",
+			"MAS 44",
+			"Modele 1944",
+			"Ribeyrolles",
+			"Selbstlader 1916",
+			"StG 44",
+			"Sturmgewehr 1-5",
+			"Turner SMLE"
+		],
+		"G1" :
+		[
+			"Frag Grenade",
+			"Incendiary Grenade",
+			"Anti Tank Bundle Grenade",
+			"Demolition Grenade",
+			"Type 99 Mine",
+			"Firecrackers"
+		],
+		"G2" :
+		[
+			"Panzerfaust",
+			"M1A1 Bazooka",
+			"PIAT",
+			"Fliegerfaust"
+		],
+		"G3" :
+		[
+			"Sticky Dynamite",
+			"AT Mine",
+			"Frag Grenade Rifle",
+			"Lunge Mine",
+			"Pistol Flamethrower"
+		]
+	},
+	"MEDIC" :
+	{
+		"W1" :
+		[
+			"De Lisle Commando",
+			"EMP",
+			"Jungle Carbine",
+			"M3 Grease Gun",
+			"M28 Tromboncino",
+			"M1928A1",
+			"MAB 38",
+			"MP28",
+			"MP34",
+			"MP40",
+			"Nambu Type 2A",
+			"STEN",
+			"Suomi KP-31",
+			"Type 100",
+			"Welgun",
+			"Zk-383"
+		],
+		"G1" :
+		[
+			"Frag Grenade",
+			"Smoke Grenade",
+			"Incendiary Grenade",
+			"Demolition Grenade",
+			"Type 99 Mine",
+			"Firecrackers"
+		],
+		"G3" :
+		[
+			"Smoke Grenade Rifle",
+			"AP Mine"
+		]
+	},
+	"SUPPORT" :
+	{
+		"W1" :
+		[
+			"12g Automatic",
+			"BAR M1918A2",
+			"Bren Gun",
+			"Chauchat",
+			"FG-42",
+			"KE7",
+			"Lewis Gun",
+			"LS26",
+			"M30 Drilling",
+			"M97",
+			"M1919A6",
+			"M1922 MMG",
+			"Madsen MG",
+			"MG34",
+			"MG42",
+			"Model 37",
+			"S2-200",
+			"Sjogren Shotgun",
+			"Type 11 MG",
+			"Type 97 MG",
+			"VGO"
+		],
+		"G1" :
+		[
+			"Incendiary Grenade",
+			"Impact Grenade",
+			"Demolition Grenade",
+			"Type 99 Mine",
+			"Firecrackers"
+		],
+		"G3" :
+		[
+			"AT Mine",
+			"AT Grenade Pistol",
+			"AP Mine",
+			"Lunge Mine",
+			"Shaped Charge",
+			"Kampfpistole"
+		]
+	},
+	"RECON" :
+	{
+		"W1" :
+		[
+			"Boys AT Rifle",
+			"C96 Trench Carbine",
+			"Gewehr M9530",
+			"K3143",
+			"Kar98k",
+			"Krag-Jorgensen",
+			"Lee-Enfield No4 Mk1",
+			"M3 Infrared",
+			"Model 8",
+			"P08 Carbine",
+			"Panzerbuchse",
+			"Ross Rifle MkIII",
+			"RSC",
+			"Selbstlader 1906",
+			"Type 99 Arisaka",
+			"ZH-29"
+		],
+		"G1" :
+		[
+			"Frag Grenade",
+			"Throwing Knife",
+			"Smoke Grenade",
+			"Demolition Grenade",
+			"Type 99 Mine",
+			"Firecrackers"
+		],
+		"G2" :
+		[
+			"Doppel Schuss",
+			"Flare Gun"
+		],
+		"G3" :
+		[
+			"AP Mine",
+			"RMN50 Rifle Frag"
+		]
+	},
+	"W2" :
+	[
+		"Liberator",
+		"M1911 Suppressed",
+		"M1911",
+		"Mk VI Revolver",
+		"Model 27",
+		"P08 Pistol",
+		"P38 Pistol",
+		"PPK Suppressed",
+		"PPK",
+		"Repetierpistole M1912",
+		"Ruby",
+		"Type 94",
+		"Welrod"
+	],
+	"MELEE" :
+	[
+		"Scout Knife M1916",
+		"Barbed BaseBall Bat",
+		"Hatchet",
+		"EGW Survival Knife",
+		"Club",
+		"Pickaxe",
+		"Shovel",
+		"British Army Jack Knife",
+		"Kukri",
+		"Bolo-Guna",
+		"Broken Bottle",
+		"Sai",
+		"Hachiwari",
+		"K98 Bayonet",
+		"Escape Axe",
+		"Ilse's Pickaxe",
+		"German Naval Dagger",
+		"Knuckle Duster",
+		"Poignard",
+		"Coupe Coupe",
+		"Criket Bat",
+		"Solveig's Knife",
+		"Control Stick",
+		"Commando Machete",
+		"Lever Pipe",
+		"British Naval Dagger",
+		"Lion Head Sword",
+		"Golden Eagle"
+	],
+	"STATIC WEAPONS & PICKUP" :
+	[
+		"Flak 38 AA",
+		"40MM AA",
+		"Type 10",
+		"HMG",
+		"Pak 40",
+		"M2 Flamethrower",
+		"Katana"
+	]
+}

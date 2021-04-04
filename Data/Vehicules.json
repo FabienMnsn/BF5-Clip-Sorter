@@ -1,0 +1,140 @@
+{
+	"GE" :
+	{
+		"TANKS" :
+		{
+			"LIGHT" :
+			[
+				"Kettenkrad",
+				"Kubelwagen",
+				"Sd Kfz 251 Halftrack"				
+			],
+			"MEDIUM" :
+			[
+				"Falkpanzer IV",
+				"Panzer IV",
+				"Sturmgeschutz IV",
+				"Panzer 38T",
+				"SdKfz 234 Puma"
+			],
+			"HEAVY" :
+			[
+				"Tiger I"
+			]
+		},
+		"PLANES" :
+		{
+			"LIGHT" :
+			[
+				"Bf 109",
+				"Stuka"
+			],
+			"HEAVY" :
+			[
+				"JU 88"
+			]
+		}
+	},
+	"UK" :
+	{
+		"TANKS" :
+		{
+			"LIGHT" :
+			[
+				"M3 Halftrack",
+				"Universal Carrier"				
+			],
+			"MEDIUM" :
+			[
+				"Valentine Mk VIII",
+				"Valentine AA Mk I",
+				"Valentine Archer",
+				"Stagound T17E1"
+			],
+			"HEAVY" :
+			[
+				"Churchill Mk VII",
+				"Churchill Gun Carrier"
+			]
+		},
+		"PLANES" :
+		{
+			"LIGHT" :
+			[
+				"Spitfire",
+				"Mosquito"
+			],
+			"HEAVY" :
+			[
+				"Blenheim"
+			]
+		}
+	},
+	"USA" :
+	{
+		"TANKS" :
+		{
+			"LIGHT" :
+			[
+				"Jeep"
+			],
+			"MEDIUM" :
+			[
+				"LVT",
+				"M8 Greyhound"
+			],
+			"HEAVY" :
+			[
+				"Sherman"
+			]
+		},
+		"PLANES" :
+		{
+			"LIGHT" :
+			[
+				"Corsair F4U"
+			],
+			"HEAVY" :
+			[
+				"P51",
+				"A20 P70"
+			]
+		},
+		"BOATS" :
+		[
+			"LCVP"
+		]
+	},
+	"JP" :
+	{
+		"TANKS" :
+		{
+			"LIGHT" :
+			[
+				"Type 95 Car"
+			],
+			"MEDIUM" :
+			[
+				"KaMi"
+			],
+			"HEAVY" :
+			[
+				"Type 97"
+			]
+		},
+		"PLANES" :
+		{
+			"LIGHT" :
+			[
+				"Zero A6"
+			],
+			"HEAVY" :
+			[
+			]
+		},
+		"BOATS" :
+		[
+			"Dinghy"
+		]
+	}
+}

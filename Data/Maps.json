@@ -1,0 +1,437 @@
+{
+	"MAPS" : 
+	{
+		"Aerodrome":
+		{
+			"UK" :
+			[
+				"Universal Carrier",
+				"M3 Halftrack",
+				"Staghound T17E1",
+				"Valentine Mk VIII",
+				"Valentine AA Mk I",
+				"Valentine Archer",
+				"Churchill Mk VII",
+				"Churchill Gun Carrier"
+			],
+			"GE" :
+			[
+				"Kubelwagen",
+				"Sd Kfz 251 Halftrack",
+				"Panzer 38T",
+				"Flakpanzer IV",
+				"Panzer IV",
+				"Sturmgeschutz IV",
+				"Tiger I"
+			]
+		},
+		"Al Marj":
+		{
+			"USA" :
+			[
+				"Jeep",
+				"M3 Halftrack"
+			],
+			"GE" :
+			[
+				"Kettenkrad",
+				"Kubelwagen",
+				"Sd Kfz 251 Halftrack"
+			]
+		},
+		"Al Sundan":
+		{
+			"USA" :
+			[
+				"Jeep",
+				"M3 Halftrack",
+				"M8 Greyhound",
+				"Sherman",
+				"Valentine AA Mk I",
+				"P51",
+				"A20 P70"
+			],
+			"GE" :
+			[
+				"Kubelwagen",
+				"Sd Kfz 251 Halftrack",
+				"Sd Kfz 234 Puma",
+				"Flakpanzer IV",
+				"Panzer IV",
+				"Sturmgeschutz IV",
+				"Tiger I",
+				"Bf 109",
+				"Stuka",
+				"JU 88"
+			]
+		},
+		"Arras":
+		{
+			"UK" :
+			[
+				"Kettenkrad",
+				"Universal Carrier",
+				"M3 Halftrack",
+				"Staghound T17E1",
+				"Valentine Mk VIII",
+				"Valentine AA Mk I",
+				"Valentine Archer",
+				"Churchill Mk VII",
+				"Churchill Gun Carrier",
+				"Spitfire",
+				"Mosquito",
+				"Blenheim"
+			],
+			"GE" :
+			[
+				"Kettenkrad",
+				"Kubelwagen",
+				"Sd Kfz 251 Halftrack",
+				"Panzer 38T",
+				"Flakpanzer IV",
+				"Panzer IV",
+				"Sturmgeschutz IV",
+				"Tiger I",
+				"Bf 109",
+				"Stuka",
+				"JU 88"
+			]
+		},
+		"Devastation":
+		{
+			"UK" :
+			[
+				"Universal Carrier",
+				"M3 Halftrack",
+				"Staghound T17E1",
+				"Valentine Mk VIII",
+				"Valentine AA Mk I",
+				"Valentine Archer",
+				"Churchill Mk VII",
+				"Churchill Gun Carrier"
+			],
+			"GE" :
+			[
+				"Kubelwagen",
+				"Sd Kfz 251 Halftrack",
+				"Panzer 38T",
+				"Flakpanzer IV",
+				"Panzer IV",
+				"Sturmgeschutz IV",
+				"Tiger I"
+			]
+		},
+		"Fjell 652":
+		{
+			"UK" :
+			[
+				"Spitfire",
+				"Mosquito",
+				"Blenheim"
+			],
+			"GE" :
+			[
+				"Bf 109",
+				"Stuka",
+				"JU 88"
+			]
+		},
+		"Hamada":
+		{
+			"UK" :
+			[
+				"Universal Carrier",
+				"M3 Halftrack",
+				"Staghound T17E1",
+				"Valentine Mk VIII",
+				"Valentine AA Mk I",
+				"Valentine Archer",
+				"Churchill Mk VII",
+				"Churchill Gun Carrier",
+				"Spitfire",
+				"Mosquito",
+				"Blenheim"
+			],
+			"GE" :
+			[
+				"Kubelwagen",
+				"Sd Kfz 251 Halftrack",
+				"Panzer 38T",
+				"Flakpanzer IV",
+				"Panzer IV",
+				"Sturmgeschutz IV",
+				"Tiger I",
+				"Bf 109",
+				"Stuka",
+				"JU 88"
+			]
+		},
+		"Iwo Jima":
+		{
+			"USA" :
+			[
+				"Jeep",
+				"LVT",
+				"Sherman",
+				"Corsair F4U",
+				"LCVP"
+			],
+			"JP" :
+			[
+				"Type 95 Car",
+				"Type 97",
+				"KaMi",
+				"Zero A6"
+			]
+		},
+		"Lofoten Islands":
+		{
+			"USA" :
+			[
+
+			],
+			"GE" :
+			[
+
+			]
+		},
+		"Marita":
+		{
+			"UK" :
+			[
+				"Universal Carrier",
+				"M3 Halftrack",
+				"Tractor"
+			],
+			"GE" :
+			[
+				"Kubelwagen",
+				"Sd Kfz 251 Halftrack",
+				"Tractor"
+			]
+		},
+		"Mercury":
+		{
+			"UK" :
+			[
+				"Kettenkrad",
+				"Universal Carrier",
+				"Staghound T17E1",
+				"Valentine Mk VIII",
+				"Valentine AA Mk I",
+				"Valentine Archer",
+				"Churchill Mk VII",
+				"Churchill Gun Carrier",
+				"Spitfire",
+				"Mosquito",
+				"Blenheim"
+			],
+			"GE" :
+			[
+				"Kettenkrad",
+				"Kubelwagen",
+				"Panzer 38T",
+				"Flakpanzer IV",
+				"Panzer IV",
+				"Sturmgeschutz IV",
+				"Tiger I",
+				"Bf 109",
+				"Stuka",
+				"JU 88"
+			]
+		},
+		"Narvik":
+		{
+			"UK" :
+			[
+				"Kettenkrad",
+				"Universal Carrier",
+				"M3 Halftrack",
+				"Staghound T17E1",
+				"Valentine Mk VIII",
+				"Valentine AA Mk I",
+				"Valentine Archer",
+				"Churchill Mk VII",
+				"Churchill Gun Carrier",
+				"Spitfire",
+				"Mosquito",
+				"Blenheim"
+			],
+			"GE" :
+			[
+				"Kettenkrad",
+				"Kubelwagen",
+				"Sd Kfz 251 Halftrack",
+				"Panzer 38T",
+				"Flakpanzer IV",
+				"Panzer IV",
+				"Sturmgeschutz IV",
+				"Tiger I",
+				"Bf 109",
+				"Stuka",
+				"JU 88"
+			]
+		},
+		"Pacific Storm":
+		{
+			"USA" :
+			[
+				"Jeep",
+				"LVT",
+				"Sherman",
+				"Corsair F4U",
+				"LCVP"
+			],
+			"JP" :
+			[
+				"Type 95 Car",
+				"KaMi",
+				"Type 97",
+				"Zero A6"
+			]
+		},
+		"Panzerstorm":
+		{
+			"USA" :
+			[
+				"Kettenkrad",
+				"Jeep",
+				"M3 Halftrack",
+				"M8 Greyhound",
+				"Sherman",
+				"Valentine AA Mk I",
+				"P51",
+				"A20 P70"
+			],
+			"GE" :
+			[
+				"Kettenkrad",
+				"Kubelwagen",
+				"Sd Kfz 251 Halftrack",
+				"Sd Kfz 234 Puma",
+				"Flakpanzer IV",
+				"Panzer IV",
+				"Sturmgeschutz IV",
+				"Tiger I",
+				"Bf 109",
+				"Stuka",
+				"JU 88"
+			]
+		},
+		"Provence":
+		{
+			"USA" :
+			[
+				"Jeep",
+				"M8 Greyhound",
+				"Valentine AA Mk I",
+				"Sherman",
+				"Tractor"
+
+			],
+			"GE" :
+			[
+				"Kubelwagen",
+				"Sd Kfz 234 Puma",
+				"Flakpanzer IV",
+				"Panzer IV",
+				"Sturmgeschutz IV",
+				"Tiger I",
+				"Tractor"
+			]
+		},
+		"Rotterdam":
+		{
+			"UK" :
+			[
+				"Universal Carrier",
+				"M3 Halftrack",
+				"Staghound T17E1",
+				"Valentine Mk VIII",
+				"Valentine AA Mk I",
+				"Valentine Archer",
+				"Churchill Mk VII",
+				"Churchill Gun Carrier"
+			],
+			"GE" :
+			[
+				"Kubelwagen",
+				"Sd Kfz 251 Halftrack",
+				"Panzer 38T",
+				"Flakpanzer IV",
+				"Panzer IV",
+				"Sturmgeschutz IV",
+				"Tiger I"
+			]
+		},
+		"Solomon Islands":
+		{
+			"USA" :
+			[
+				"Jeep",
+				"Sherman",
+				"LVT",
+				"Dinghy"
+			],
+			"JP" :
+			[
+				"Type 95 Car",
+				"Type 97",
+				"KaMi",
+				"Dinghy"
+			]
+		},
+		"Twisted Steel":
+		{
+			"USA" :
+			[
+				"Jeep",
+				"M3 Halftrack",
+				"M8 Greyhound",
+				"Sherman",
+				"Valentine AA Mk I",
+				"P51",
+				"A20 P70"
+			],
+			"GE" :
+			[
+				"Kubelwagen",
+				"Sd Kfz 251 Halftrack",
+				"Sd Kfz 234 Puma",
+				"Flakpanzer IV",
+				"Panzer IV",
+				"Sturmgeschutz IV",
+				"Tiger I",
+				"Bf 109",
+				"Stuka",
+				"JU 88"
+			]
+		},
+		"Underground":
+		{
+			"UK" :
+			[
+
+			],
+			"GE" :
+			[
+
+			]
+		},
+		"Wake Island":
+		{
+			"USA" :
+			[
+				"LVT",
+				"Corsair F4U",
+				"LCVP"
+			],
+			"JP" :
+			[
+				"KaMi",
+				"Type 97",
+				"Zero A6"
+			]
+		}
+	}
+}

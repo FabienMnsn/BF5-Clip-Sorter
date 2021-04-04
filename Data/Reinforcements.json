@@ -1,0 +1,32 @@
+{
+	"GE":
+	[
+		"V1",
+		"Sturmtiger",
+		"Supply Canister",
+		"Sd Kfz 251 Pakwagen",
+		"Sector Artillery"
+	],
+	"UK":
+	[
+		"V1",
+		"Churchill Crocodile",
+		"Supply Canister",
+		"T48 GMC",
+		"Sector Artillery"
+	],
+	"USA":
+	[
+		"V1",
+		"T34 Calliope",
+		"Supply Canister",
+		"Sector Artillery"
+	],
+	"JP":
+	[
+		"V1",
+		"HaChi",
+		"Supply Canister",
+		"Sector Artillery"
+	]
+}
