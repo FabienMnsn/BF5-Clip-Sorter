@@ -2,4 +2,4 @@
 Small program to organize BF5 video clips
 
 
-<img src="Images/MainMenu.png" width="100" height="10">
+<img src="Images/MainMenu.png" width="960" height="540">
