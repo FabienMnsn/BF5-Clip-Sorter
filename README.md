@@ -3,6 +3,7 @@
 
 
 ### Main App Menu
+#### File>Help Menu doesn't do anything currently maybe in a futur update I'll add link to this page or a quick start guide PDF?
 <img src="/Images/MainMenu.PNG" width="960" height="540">
 
 ### Clip Analyzer Window
